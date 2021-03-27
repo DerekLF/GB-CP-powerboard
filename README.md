@@ -24,9 +24,38 @@ Ideally the negative output voltages formula would be like Vneg=(Vpos-2xVf)x-1. 
 
 ## Installation
 This is pretty straight forward, solder the jumper depending on which gameboy it is for. Remove the original board, leave the original pins standing. Solder the board on the pins, attach the battery and VBUS wires. Check wiring and light 'em up. 
+For more information regarding the installation of the board, see the instruction paper that's you've received with the board. Or view it online
 _insert installation video_
 
 ## FAQ
+<!-- Question 1, Where can I buy the boards?-->
+<details closed>
+<summary>Where can I buy the boards?</summary>
+<br>
+You can buy the boards on our Tindie store or on the shop.insidegadgets.com <br/>
+Tindie is for Europe only, while shop.insidegadgets.com is for the rest of the world <br/>
+</details>
+
+<!-- Question 2, Can I make my own board?-->
+<details closed>
+<summary>Can I make my own board?</summary>
+<br>
+Sure you can, all you need to know and what I'll tell you is explained above.  <br/>
+Will I be happy with you copying my work? Nope.  <br/>
+Will I offer help in creating your own version? Nope.  <br/>
+If you fry something with you own version of the board, can I be held responsible? Lol, no but I will laugh for a good minute or 2.  <br/>
+</details>
+
+<!-- Question 3, HELP!! Why doesnt my board work?-->
+<details closed>
+<summary>HELP!! Why doesnt my board work?</summary>
+<br>
+That is a very good question, it can depend on quiet a lot of factors. Here are some methods you can try to resolve the issue:  <br/>
+  1. Check wiring, if something isn't wired correctly it will obviously not work  <br/>
+  2. If you can check if all voltages are within the given limits.  <br/>
+  3. Remove the batteries, flick the switch to "ON" and measure contuinity between VIN and the BAT+ terminal. This should be <*??*Ohm. If the contuinity is higher then *??*Ohms its a bad solder job. If there is no contuinity it might be a blown fuse.  <br/>
+  4. 
+</details>
 
 ## Specs
 
