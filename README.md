@@ -57,7 +57,8 @@ That is a very good question, it can depend on quiet a lot of factors. Here are 
   4. 
 </details>
 
-## Specs
-
+## Feature request
+If you have any feature request just open an issue and state what you want to see changed or explain your idea. If I like it and it's doable I might send you a reward free of charge.
+If you have a wicked idea for a new mod or want to have something developed to make your life easier just contact me on _459647@student.fontys.nl_ and we can probably work something out
 ## Contact
 You can find me in the various Gameboy related discord server, but my main base of operation is located in the InsideGadgets Discord server.
