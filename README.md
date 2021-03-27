@@ -24,7 +24,7 @@ Ideally the negative output voltages formula would be like Vneg=(Vpos-2xVf)x-1. 
 
 ## Installation
 This is pretty straight forward, solder the jumper depending on which gameboy it is for. Remove the original board, leave the original pins standing. Solder the board on the pins, attach the battery and VBUS wires. Check wiring and light 'em up. 
-For more information regarding the installation of the board, see the instruction paper that's you've received with the board. Or view it online
+For more information regarding the installation of the board, see the instruction paper that's you've received with the board. Or view it ![here](https://github.com/DerekLF/GB-CP-powerboard/blob/main/Installation%20instruction%20V1.2a.png)
 _insert installation video_
 
 ## FAQ
