@@ -53,7 +53,7 @@ If you fry something with you own version of the board, can I be held responsibl
 That is a very good question, it can depend on quiet a lot of factors. Here are some methods you can try to resolve the issue:  <br/>
   1. Check wiring, if something isn't wired correctly it will obviously not work  <br/>
   2. If you can check if all voltages are within the given limits.  <br/>
-  3. Remove the batteries, flick the switch to "ON" and measure contuinity between VIN and the BAT+ terminal. This should be <*??*Ohm. If the contuinity is higher then *??*Ohms its a bad solder job. If there is no contuinity it might be a blown fuse.  <br/>
+  3. Remove the batteries, flick the switch to "ON" and measure contuinity between VIN and the BAT+ terminal. This should be <*??*Ohm. If the contuinity is higher then *??*Ohms its a bad solder job. If there is no contuinity it might be a blown fuse or a dirty power switch.  <br/>
   4. 
 </details>
 
