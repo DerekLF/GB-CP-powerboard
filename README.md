@@ -18,7 +18,7 @@ Theory of operation and well since I'm not getting paid for this so I wont expla
 
 So now we can convert any input voltage less then the output voltage to the output voltage, simple right. And that was the hardest part, ow wait no..
 We still have the 2 remaining power rails of 13.6v and -15v. Voltage inverters are a thing nowadays, but they're expensive or impossible to find(or in those weird SOP-8 packages). Looking back the different regulator options we have, one does stand out a bit. High voltage and low current hmm? A charge pump it is. But.. Those ICs are also very expensive. But what if we combine several methods. Like the boost-convert and charge-pump.
-![Boost+Charge pump circuit](https://user-images.githubusercontent.com/39482719/112719217-14fb9e00-8ef8-11eb-8637-2ad4daf0973e.png)
+[Boost+Charge pump circuit](https://user-images.githubusercontent.com/39482719/112719217-14fb9e00-8ef8-11eb-8637-2ad4daf0973e.png)
 Et voila. We're done, we've got our high positive negative voltage rail.
 Ideally the negative output voltages formula would be like Vneg=(Vpos-2xVf)x-1. But this depends on the load current of both the Vpos as the Vneg.
 
